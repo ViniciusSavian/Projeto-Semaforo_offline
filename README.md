@@ -13,12 +13,12 @@ Além disso, nos 2 primeiros segundos que ele está verde você tem um buzzer qu
 ## Montagem Fisica
 Seguem fotos e vídeos da montagem:
 
-![Montagem 1](assets\montagem-1.jpg)
-![Montagem 2](assets\montagem-2.jpg)
-![Montagem 3](assets\montagem-3.jpg)
-![Montagem 4](assets\montagem-4.jpg)
+<img src="assets\montagem-1.jpg" width="300" height="400">
+<img src="assets\montagem-2.jpg" width="300" height="400">
+<img src="assets\montagem-3.jpg" width="300" height="400">
+<img src="assets\montagem-4.jpg" width="300" height="400">
 
-[Assista ao vídeo](assets/montagem-5.mp4)
+[Assista ao vídeo](https://drive.google.com/file/d/1WFbPd79on9XLgic3p6_tg-3fnYk6NPK5/view?usp=sharing)
 
 ## Componentes Utilizados
 
@@ -90,7 +90,7 @@ void loop() {
 
 ## Vídeo Funcionamento
 
-[Assista ao vídeo](assets/funcionamento.mp4)
+[Assista ao vídeo](https://drive.google.com/file/d/1jigBenZLhAuCetsNSoBfEZrK9gfPLIBv/view?usp=sharing)
 
 ## Avaliação
 
